@@ -1,0 +1,15 @@
+# Python bytecode files
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
